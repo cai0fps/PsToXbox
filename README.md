@@ -32,7 +32,7 @@ Este projeto foi construído em **C# / .NET 8 (WPF)**.
 ### Passo a passo:
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/PsToXbox.git
+git clone https://github.com/cai0fps/PsToXbox.git
 cd PsToXbox
 
 # (Importante) O projeto exige os executáveis do ViGEmBus e HidHide na raiz 
