@@ -2,8 +2,6 @@
 
 Um utilitário de conversão de controles simples e eficiente para Windows. Ele pega os sinais de controles de PlayStation e adaptadores genéricos e os converte nativamente para um controle virtual de **Xbox 360**.
 
-Se você está cansado de jogos de PC que só reconhecem controles de Xbox e não suportam nativamente o seu DualSense, DualShock 4 ou até mesmo controles antigos de PS2, este aplicativo resolve isso com um único clique.
-
 ## ✨ Recursos
 
 - **Plug & Play Universal:** Suporta controles oficiais (PS3, PS4, PS5) e adaptadores antigos de PS1/PS2.
